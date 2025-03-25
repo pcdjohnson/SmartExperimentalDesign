@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Mac hidden files
+.DS_Store
+
+# data folder
+data/
+
+# any spare code
